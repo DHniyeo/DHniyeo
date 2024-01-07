@@ -1,1 +1,2 @@
-[header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=capsule%20render)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{ehdgns915})
