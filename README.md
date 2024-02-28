@@ -3,6 +3,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHniyeo&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
   
   ## 👋 DHniyeo 👋 
+
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDHniyeo&count_bg=%231E36BD&title_bg=%23030202&icon=peugeot.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://github.com/DHniyeo/)<br/>
   📕 영남대학교 컴퓨터공학과 수료 <br/>
@@ -14,7 +15,7 @@
 
 
 <div align="center">
-  <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdgns915"/>
+  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdgns915"/>
   
   
   ### 🛠 SKILL 🛠
