@@ -11,7 +11,7 @@
   📕 영남대학교 컴퓨터공학과 수료 <br/>
   🎓 경북대학교 전자공학부 & 컴퓨터공학과(부전공) 졸업 <br/>
   🧩 경북대 Hustar ICT 1기 <br/>
-  🔎 삼성 청년 SW 아카데미 (SSAFY) 7기 
+  🔎 삼성 청년 SW 아카데미 (SSAFY) 7기 <br/>
   🪖 LIG Nex1 Junior Embedded Application SW Developer <br/>
  
 </div>
