@@ -21,8 +21,7 @@
   
   
   ### 🛠 SKILL 🛠
- 
-  <img src="https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
 <br>
