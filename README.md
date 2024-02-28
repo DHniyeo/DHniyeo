@@ -6,29 +6,15 @@
 -->
 <div class="container">
   <div class="row">
-    <div class="col-sm-6">
+    <div class="col-sm-4">
       <div class="box">
-        <h1>첫 번째 구역</h1>
+        <h1>왼쪽 구역</h1>
         <p>내용</p>
       </div>
     </div>
-    <div class="col-sm-6">
+    <div class="col-sm-8">
       <div class="box">
-        <h1>두 번째 구역</h1>
-        <p>내용</p>
-      </div>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-sm-6">
-      <div class="box">
-        <h1>세 번째 구역</h1>
-        <p>내용</p>
-      </div>
-    </div>
-    <div class="col-sm-6">
-      <div class="box">
-        <h1>네 번째 구역</h1>
+        <h1>오른쪽 구역</h1>
         <p>내용</p>
       </div>
     </div>
