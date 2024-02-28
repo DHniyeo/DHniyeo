@@ -8,13 +8,11 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDHniyeo&count_bg=%231E36BD&title_bg=%23030202&icon=peugeot.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://github.com/DHniyeo/)
 
   
-
-  🎓 경북대학교 전자공학부 졸업<br>
-  🔎 삼성 청년 SW 아카데미 (SSAFY) 7기<br> 
-  🔎 LIG Nex1 Junior Embedded Application SW Developer
- 
-
-  <br>
+  📕 영남대학교 컴퓨터공학과 수료 <br>
+  🎓 경북대학교 전자공학부 & 컴퓨터공학과(부전공) 졸업 <br>
+  🧩 경북대 Hustar ICT 1기 <br>
+  🔎 삼성 청년 SW 아카데미 (SSAFY) 7기 <br> 
+  🪖 LIG Nex1 Junior Embedded Application SW Developer <br>
  
 </div>
 
