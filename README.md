@@ -1,6 +1,10 @@
+<header>
+  
+</header>
+
 <div align="center">
   
-  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddmadl97"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongum&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
   
 ## DHniyeo
   
@@ -16,8 +20,8 @@
 
 
 <div align="center">
-  
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongum&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
+
+  <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdgns915"/>
   
   ### 🛠 SKILL 🛠
  
