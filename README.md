@@ -9,8 +9,8 @@
 
   
 
-  🎓 경북대학교 전자공학부 졸업  
-  🔎 삼성 청년 SW 아카데미 (SSAFY) 7기
+  🎓 경북대학교 전자공학부 졸업
+  🔎 삼성 청년 SW 아카데미 (SSAFY) 7기 <br>
   🔎 LIG Nex1 Junior Embedded Application SW Developer
  
 
