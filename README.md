@@ -1,23 +1,27 @@
-
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongum&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
+  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdgns915"/>
   
-## DHniyeo
+## 👋 JEONG UM 👋 
   
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDHniyeo&count_bg=%231E36BD&title_bg=%23030202&icon=peugeot.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://github.com/DHniyeo/)
-  🎓 경북대학교 전자공학과 졸업  
-  🔎 삼성 청년 SW 아카데미 (SSAFY) 7기   
+    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDHniyeo&count_bg=%231E36BD&title_bg=%23030202&icon=peugeot.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://github.com/DHniyeo/)
+
+  
+
+  🎓 세종대학교 소프트웨어학과 졸업  
+  🔎 삼성 청년 SW 아카데미 (SSAFY) 6기   
+  🗣 Kakao Corp
+ 
 
   <br>
-  
+ 
 </div>
 
 
 <div align="center">
-
-  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdgns915"/>
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongum&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
   
   ### 🛠 SKILL 🛠
  
