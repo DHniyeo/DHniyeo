@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongum&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongum&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
   
   ## 👋 DHniyeo 👋 
   
