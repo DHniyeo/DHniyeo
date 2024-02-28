@@ -1,6 +1,3 @@
-<header>
-  
-</header>
 
 <div align="center">
   
