@@ -5,14 +5,32 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <div class="container">
-  <div class="header">
-    <h1>헤더</h1>
+  <div class="row">
+    <div class="col-sm-6">
+      <div class="box">
+        <h1>첫 번째 구역</h1>
+        <p>내용</p>
+      </div>
+    </div>
+    <div class="col-sm-6">
+      <div class="box">
+        <h1>두 번째 구역</h1>
+        <p>내용</p>
+      </div>
+    </div>
   </div>
-  <div class="main">
-    <h2>본문</h2>
-    <p>본문 내용</p>
-  </div>
-  <div class="footer">
-    <p>푸터</p>
+  <div class="row">
+    <div class="col-sm-6">
+      <div class="box">
+        <h1>세 번째 구역</h1>
+        <p>내용</p>
+      </div>
+    </div>
+    <div class="col-sm-6">
+      <div class="box">
+        <h1>네 번째 구역</h1>
+        <p>내용</p>
+      </div>
+    </div>
   </div>
 </div>
