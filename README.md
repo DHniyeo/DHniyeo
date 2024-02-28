@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&text=DHniyeo%20)
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHniyeo&layout=compact&theme=radical&langs_count=8"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHniyeo&layout=compact&theme=merko&langs_count=8"/>
   
   ## ✒️ Dong Hun ✒️
 
